@@ -19,6 +19,7 @@ fn main() {
 These languages are supported by default, but you can add more by supplying
 your own `highlight.js` file:
 
+- abap
 - apache
 - armasm
 - bash
